@@ -21,3 +21,7 @@ p {
 .xx-large{
   font-size: 4em;
 }
+
+.blue-background{
+  background-color: blue;
+}

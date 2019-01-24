@@ -27,13 +27,13 @@ const unorderedList = function(arrayParameter) {
     return `<ul>${list}</ul>`
 }
 
-// - Your job is to build a function called buildStudentComponent. The student component should include an h3 element, a section element, and a bulleted list of technologies that you've learned so far
+// - Your job is to build a function called buildInstructorComponent. The instructor component should include an h3 element, a section element, and a bulleted list of technologies that they know (just make some up)
 
-// - The buildStudentComponent function should call the three functions you just copied and pasted in your file
+// - The buildInstructor function should call the three functions you just copied and pasted in your file
 
 // - Bear in mind that the unorderedList function is expecting an array as a parameter- make sure you're passing in an array! 
 
-// - The buildStudentComponent function should RETURN the full HTML string of all the elements put together
+// - The buildInstructorComponent function should RETURN the full HTML string of all the elements put together
 
-// - For now, just log the returned HTML string to the console. (Since you're returning it, be sure to catch it in a variable- when you're done you should be able to console.log it OUTSIDE the function.)
+// - Print the returned HTML string to the DOM
 
